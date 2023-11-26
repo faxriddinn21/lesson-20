@@ -1,0 +1,14 @@
+                  	SASS KONSPEKT!
+@mixin va include style bolaklarni qayta ishlatishni osonlashtiradi,
+
+@function ifodalarda ishlatilishi mummkin bolganv finiksiyani yaratishda ishlatiladi.
+
+@extend tanlab oluvchilarni bir biridan stylni meros qilib olishda ishlatiladi.
+
+@error kompilatsiyanixatolik bilan toxtatish da ishlatiladi.
+
+@warning kompilatsiyani toxtatmasdan faqatgina xabar berish bilan cheklanishda ishlatiladi.
+
+@use mixin, fuc=nksiya va ozgaruvchilarni SASS fayilga yuklashda ishlatiladi.Undan tashqari bir necha fayilni birlashtirishda ishlatiladi.
+
+@import stillar mixin lar funksiyalar va ozgaruvchilarni sass faylga yuklash da ishlatiladi.
